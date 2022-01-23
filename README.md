@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @markmnyc
 - 👀 I’m interested in new and challenging technologies
-- 🌱 I’m currently learning react, python and go
-- 💞️ I’m looking to collaborate on open source and nature loving technology
+- 🌱 I’m currently learning react, go and swift
+- 💞️ I’m looking to collaborate on open source and animal life enhancing technology 
 - 📫 How to reach me @ghotei159
 
 <!---
