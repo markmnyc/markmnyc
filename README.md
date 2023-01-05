@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @markmnyc
-- 👀 I’m interested in new and challenging technologies
-- 🌱 I’m currently learning react, go and swift
-- 💞️ I’m looking to collaborate on open source and animal life enhancing technology 
+- 👀 Goal for 2023 is to make a github commit once a week
+- 🌱 I’m currently learning ... well everything 
+- 💞️ I’m looking to collaborate on open source 
 - 📫 How to reach me @ghotei159
 
 <!---
