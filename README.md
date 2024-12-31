@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @markmnyc
-- 👀 Goal for 2023 is to make a github commit once a week
+- 👀 Goal for 2025 is to contribute to open source
 - 🌱 I’m currently learning ... well everything 
-- 💞️ I’m looking to collaborate on open source 
+- 💞️ I love all things .net
 - 📫 How to reach me @ghotei159
 
 <!---
