@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @markmnyc
-- 👀 Goal for 2025 is to contribute to open source
-- 🌱 I’m currently learning ... well everything 
-- 💞️ I love all things .net
+- 👀 Goal for 2026 is to create an evil athropic genius
+- 🌱 I’m currently learning AI , LLM etc 
+- 💞️ I love all things code
 - 📫 How to reach me @ghotei159
 
 <!---
